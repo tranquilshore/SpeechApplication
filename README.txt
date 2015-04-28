@@ -1,0 +1,1 @@
+A speech recognition application for windows. It's written in java using Sphinx, a java speech recognition architecture.
